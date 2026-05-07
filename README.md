@@ -10,10 +10,10 @@
 |-------|---------|
 | Title | Amar Klanti |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 07, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/amar-klanti/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get License For Amar Klanti](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Sync Licensing for Amar Klanti](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
