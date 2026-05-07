@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/amar-klanti/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Secure Licensing Rights for Amar Klanti](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Get License For Amar Klanti](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> ধূসর এই কুয়াশায় খুঁজি তোমার অচিন মায়া,
+> রাতের গভীর নিস্তব্ধতায় কাঁপে আমার ছায়া।
+> নেশার মতো জড়িয়ে আছো আমার প্রতিটি শ্বাসে,
+> আজও আমার একলা প্রহর শুধু তোমায় ভালোবাসে।
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
