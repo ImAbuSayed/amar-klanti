@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amar Klanti
+
+This log tracks the cryptographic history and versioning for the song **Amar Klanti** (amar-klanti).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T16:17:44.772873 | `v1` | `ac39a148fbdb1caafb2867d0b77ffe6d7441d9c8b8ab65e5672f99e29ca1a5d7` | `95488175d97b88d98cb594ffcbd29238f4e1f86eb93d25d17541884e8a5a1072` | `2026-05-08_amar-klanti-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
